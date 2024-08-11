@@ -71,8 +71,6 @@ nav ul li a{
     margin-bottom: 25px;
 }
 .content form{
-    display: flex;
-    align-items: center;
     background-color: white;
     border-radius: 5px;
     padding: 5px;
